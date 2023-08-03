@@ -37,14 +37,14 @@ First step is wiring everything up and test to see if everything works as expect
 Follow the schematics bellow :)!
 
 **The Keypad scheme**
-![teclado](https://github.com/ArTDsL/CSGO2-PROP-BOMB/assets/10051552/c0cfb7c3-6e1e-4ba5-afc4-d9fdc368b9ac)
+![teclado](https://github.com/ArTDsL/CSPROPBOMB/assets/10051552/a388fd57-f6c8-4f8b-9b6f-91669f48bffe)
 
 **The rest of the circuit**
-![csgo_lcd_bb](https://github.com/ArTDsL/CSPROPBOMB/assets/10051552/c69f39a1-094d-4654-bd61-d095e0ab284c)
+![csgo_lcd_bb](https://github.com/ArTDsL/CSPROPBOMB/assets/10051552/49b43405-1435-4d36-a44f-5f9a91714a7c)
 
 
 **In the end your circuit must look like this:**
-![1](https://github.com/ArTDsL/CSGO2-PROP-BOMB/assets/10051552/f41daf32-8aa9-40d5-8468-0d1f78bf7d6c)
+![1](https://github.com/ArTDsL/CSPROPBOMB/assets/10051552/8c411dec-ba38-469a-91d1-17dc14a81f17)
 
 OK, now we need to connect our board!
 
