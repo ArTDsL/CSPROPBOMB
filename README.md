@@ -59,8 +59,7 @@ Next step will require that you have [Arduino](https://www.arduino.cc/en/softwar
 
 The first lib will be **Keypad** and the Second one will be **LiquidCrystal**, and the third one will be the **ezButton**, to setup those libs go to **→ Sketch** on top menu, select "**Include Library**" then select "**Manage Libraries**", on search bar look for "**Keypad**" (without quotes) and install the version **3.1.1** by **Mark Stanley & Alexander Brevig**, after that return to the search bar and look for "**LiquidCrystal**" (without quotes) and install the version **1.0.7** by **Arduino & Adafruit**, again, return to the search bar and look for "**ezButton**" (without quotes) and install the version **1.0.4** by **ArduinoGetStarted.com**
 
-→ **Hit the button with a arrow pointing to the right ![image](https://github.com/ArTDsL/CSPROPBOMB/assets/10051552/26fc44d2-4ba6-4900-9a4b-a14c1cb0b4e4)
- at the left top corner** ←
+→ **Hit the button with a arrow pointing to the right ![image](https://github.com/ArTDsL/CSPROPBOMB/assets/10051552/b60486a0-a8d7-4071-86b3-c7273f2d7170) at the left top corner** ←
 
 **Wait until the code load's into the board**...
 
