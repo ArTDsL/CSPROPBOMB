@@ -71,3 +71,10 @@ When the code finish load's into the board you will see a text writed on your LC
 If everything is set and running that means it works! And i i'll let you and your creativity decide what to do now!
 
 **Password:** _7355608_ (same in the game xD)
+
+### Video
+
+Check out my [youtube channel](https://www.youtube.com/@arth3062), i made a video building this prop xD
+
+[![How do i create a Counter-Strike C-4 Bomb (PROP)](https://i.imgur.com/v5SlyUm.png 'How do i create a Counter-Strike C-4 Bomb (PROP)')](https://www.youtube.com/watch?v=yy5OT9nvQkc "How do i create a Counter-Strike C-4 Bomb (PROP)")
+
